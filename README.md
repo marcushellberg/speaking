@@ -4,10 +4,6 @@ Passionate about both learning and teaching, I help developers learn the skills 
 
 Beyond technical topics, I bring years of experience in Developer Relations to discuss how a strong DevRel strategy can create value for both developers and businesses.
 
-| Bio                                                                                                                                                                                                                        | Headshot                         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Marcus has spent the past 20 years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. He works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
-
 ## Want to collaborate or invite me to your event?
 
 If you're interested collaborating on content or having me speak at your event, please to reach out to me on GitHub, Twitter, or LinkedIn and let's get the conversation started!
@@ -16,6 +12,10 @@ If you're interested collaborating on content or having me speak at your event, 
 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
 - [Unleashing AI in Java: A Guide to Semantic Kernel, LangChain4j, and Spring AI](abstracts/unleashing-ai-in-java.md)
+
+| Bio                                                                                                                                                                                                                        | Headshot                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| Marcus has spent the past 20 years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. He works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
 
 ## Online content
 
