@@ -1,4 +1,4 @@
-# Building an AI chatbot that understands your business: Spring Boot, React, and RAG hands-on
+# Building an AI chatbot that understands your business with Spring Boot, React, and Hilla
 
 Ever wondered how to build a chatbot that's not only intelligent but also understands your specific business context? We'll kick off with an introduction to large language models (LLMs) and the role of context in enhancing their capabilities. We'll delve into the concept of retrieval augmented generation (RAG), a technique that lets your chatbot consult custom documents for better answers.
 
