@@ -8,6 +8,10 @@ Beyond technical topics, I bring years of experience in Developer Relations to d
 
 If you're interested collaborating on content or having me speak at your event, please to reach out to me on GitHub, Twitter, or LinkedIn and let's get the conversation started!
 
+## Social media
+- [Twitter](https://twitter.com/marcushellberg)
+- [LinkedIn](https://www.linkedin.com/in/marcushellberg)
+
 ## Current talks
 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
