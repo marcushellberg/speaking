@@ -28,10 +28,11 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 
 ## Past speaking engagements
 
-Below is a list of some of the events I've spoken at in the past.
+Here is a list of some of the past events I've spoken at.
 
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
+| 2023-10-25 | Vaadin Create                                            | Frankfurt, Germany   |
 | 2023-09-19 | Seattle JUG                                              | Seattle, WA          |
 | 2023-07-12 | Webinar: Building a custom ChatGPT assistant             | Online               |
 | 2023-06-20 | JCON                                                     | Cologne, Germany     |
