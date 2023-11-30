@@ -1,4 +1,4 @@
-# Java meets TypeScript: learn to build full-stack web apps with Spring Boot and React
+# Java meets TypeScript: full-stack web app development with Spring Boot and React
 
 As Java developers, we know the benefits of type-safety when building apps. The problem? Usually, that type-safety ends when we leave the server. What if it didn't have to be that way?
 
