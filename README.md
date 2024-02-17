@@ -32,11 +32,13 @@ Here is a list of some of the past events I've spoken at.
 
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
+| 2024-02-07 | Jfokus                                                   | Stockholm, Sweden    |
+| 2023-01-31 | JUG Oberpfaltz                                           | Weiden, Germany      |
 | 2023-10-25 | Vaadin Create                                            | Frankfurt, Germany   |
 | 2023-09-19 | Seattle JUG                                              | Seattle, WA          |
 | 2023-07-12 | Webinar: Building a custom ChatGPT assistant             | Online               |
 | 2023-06-20 | JCON                                                     | Cologne, Germany     |
-| 2023-06-13 | Silicon Valley GDG                                       | Montain View, CA     |
+| 2023-06-13 | Silicon Valley GDG                                       | Mountain View, CA    |
 | 2023-05-10 | Charlotte JUG                                            | Charlotte, NC        |
 | 2023-05-09 | Boston Java Meetup                                       | Boston, MA           |
 | 2023-04-17 | Triangle JUG                                             | Raleigh, NC          |
