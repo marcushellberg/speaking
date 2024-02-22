@@ -1,4 +1,4 @@
-# Full-stack web apps, 100% in Java (live code)
+# Full-stack web apps, fully Java (live code)
 
 Full-stack development can be intimidating. You need to know several technologies, and you need to know them well. But what if you could build a full-stack web app using only Java? No JavaScript, no HTML, no CSS. Just Java.
 
