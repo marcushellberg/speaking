@@ -18,7 +18,7 @@ If you're interested collaborating on content or having me speak at your event, 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
 - [Unleashing AI in Java: A Guide to Semantic Kernel, LangChain4j, and Spring AI](abstracts/unleashing-ai-in-java.md) (🏆 [voted 3rd best talk at Jfokus 2024](https://www.linkedin.com/feed/update/urn:li:activity:7166054232050151427/))
 - [Retrieval-augmented generation (RAG) with Spring Boot, React, and LangChain4j](abstracts/custom-ai-chatbot.md)
-- [Full-stack web apps, fully Java (live code)](abstracts/full-stack-web-fully-java.md)
+- [Full-stack web apps, fully in Java (live code)](abstracts/full-stack-web-fully-java.md)
 
 | Bio                                                                                                                                                                                                                        | Headshot                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
