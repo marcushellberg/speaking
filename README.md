@@ -35,6 +35,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 | ---------- | -------------------------------------------------------- | -------------------- |
 | 2024-05-15 | JCON Europe                                              | Cologne, Germany     |
 | 2024-05-01 | San Francisco JUG                                        | San Francisco, CA    |
+| 2024-04-10 | DevNexus                                                 | Atlanta, GA          |
 | 2024-03-28 | Kansas City JUG                                          | Kansas City, MO      |   
 | 2024-03-27 | Chicago JUG                                              | Chicago, IL          |
 | 2024-03-13 | Latam JUG                                                | Online               |
