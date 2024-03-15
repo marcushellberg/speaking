@@ -40,6 +40,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 | 2024-04-25 | Toronto JUG                                              | Toronto, ON, CA      |
 | 2024-04-24 | Ottawa JUG                                               | Ottawa, ON, CA       |
 | 2024-04-23 | Montreal JUG                                             | Montreal, QC, CA     |
+| 2024-04-22 | Quebec City JUG                                          | Quebec City, QC, CA  |
 | 2024-04-10 | DevNexus                                                 | Atlanta, GA          |
 | 2024-03-28 | Kansas City JUG                                          | Kansas City, MO      |   
 | 2024-03-27 | Chicago JUG                                              | Chicago, IL          |
