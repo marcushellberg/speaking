@@ -34,6 +34,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
 | 2024-10-01 | dev2next                                                 | Lone Tree, CO        |
+| 2024-05-30 | Spring IO                                                | Barcelona, Spain     |
 | 2024-05-15 | JCON Europe                                              | Cologne, Germany     |
 | 2024-05-07 | Portland JUG                                             | Portland, OR         |
 | 2024-05-01 | San Francisco JUG                                        | San Francisco, CA    |
