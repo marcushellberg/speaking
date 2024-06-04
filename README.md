@@ -30,10 +30,11 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 
 ## Speaking engagements
 
-
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
 | 2024-10-01 | dev2next                                                 | Lone Tree, CO        |
+| 2024-09-11 | Philly JUG                                               | Philadelphia, PA     |
+| 2024-09-10 | Garden State JUG                                         | Madison, NJ          |
 | 2024-05-30 | Spring IO                                                | Barcelona, Spain     |
 | 2024-05-15 | JCON Europe                                              | Cologne, Germany     |
 | 2024-05-07 | Portland JUG                                             | Portland, OR         |
@@ -43,7 +44,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 | 2024-04-23 | Montreal JUG                                             | Montreal, QC, CA     |
 | 2024-04-22 | Quebec City JUG                                          | Quebec City, QC, CA  |
 | 2024-04-10 | DevNexus                                                 | Atlanta, GA          |
-| 2024-03-28 | Kansas City JUG                                          | Kansas City, MO      |   
+| 2024-03-28 | Kansas City JUG                                          | Kansas City, MO      |
 | 2024-03-27 | Chicago JUG                                              | Chicago, IL          |
 | 2024-03-13 | Latam JUG                                                | Online               |
 | 2024-02-07 | Jfokus                                                   | Stockholm, Sweden    |
