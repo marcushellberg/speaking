@@ -1,6 +1,6 @@
 # Marcus Hellberg public speaking
 
-Passionate about both learning and teaching, I help developers learn the skills they need for modern full-stack web development. My talks often explore the integration of Java with frontend technologies and delve into how developers can make the most of AI tools within their applications. My teaching approach is hands-on, emphasizing practical coding examples.
+Passionate about both learning and teaching, I help developers learn the skills they need for modern full-stack web development. My talks often explore the integration of Java with frontend technologies and how developers can make the most of AI tools within their applications. My teaching approach is hands-on, emphasizing practical coding examples.
 
 Beyond technical topics, I bring years of experience in Developer Relations to discuss how a strong DevRel strategy can create value for both developers and businesses.
 
