@@ -16,7 +16,7 @@ If you're interested collaborating on content or having me speak at your event, 
 ## Current talks
 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
-- [Unleashing AI in Java: A Guide to Semantic Kernel, LangChain4j, and Spring AI](abstracts/unleashing-ai-in-java.md)
+- [AI in Java: Comparing Spring AI, LangChain4j, and Semantic Kernel](abstracts/unleashing-ai-in-java.md)
 - [Building a custom AI chatbot with Spring Boot, React, and LangChain4j](abstracts/custom-ai-chatbot.md)
 - [Full-stack web apps, 100% Java](abstracts/full-stack-web-100-percent-java.md)
 
@@ -32,6 +32,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
+| 2024-10-29 | Vaadin Create                                            | Frankfurt, Germany   |
 | 2024-10-01 | dev2next                                                 | Lone Tree, CO        |
 | 2024-09-11 | Philly JUG                                               | Philadelphia, PA     |
 | 2024-09-10 | Garden State JUG                                         | Madison, NJ          |

@@ -1,4 +1,4 @@
-# Unleashing AI in Java: A Guide to Semantic Kernel, LangChain4j, and Spring AI
+# AI in Java: Comparing Spring AI, LangChain4j, and Semantic Kernel
 
 Are you a Java developer curious about building AI apps, but feel restricted by the prevalence of Python and JavaScript tools? This talk is for you. We'll explore Java AI libraries like Semantic Kernel, LangChain4j, and Spring AI, demystifying how to get started with AI engineering right within your favorite language.
 
