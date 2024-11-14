@@ -50,7 +50,7 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 | 2024-03-27 | Chicago JUG                                              | Chicago, IL          |
 | 2024-03-13 | Latam JUG                                                | Online               |
 | 2024-02-07 | Jfokus                                                   | Stockholm, Sweden    |
-| 2023-01-31 | JUG Oberpfaltz                                           | Weiden, Germany      |
+| 2024-01-31 | JUG Oberpfaltz                                           | Weiden, Germany      |
 | 2023-10-25 | Vaadin Create                                            | Frankfurt, Germany   |
 | 2023-09-19 | Seattle JUG                                              | Seattle, WA          |
 | 2023-07-12 | Webinar: Building a custom ChatGPT assistant             | Online               |
