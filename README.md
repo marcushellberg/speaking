@@ -16,7 +16,7 @@ If you're interested collaborating on content or having me speak at your event, 
 ## Current talks
 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
-- [AI in Java: Comparing Spring AI and LangChain4j hands-on](abstracts/unleashing-ai-in-java.md)
+- [Intro to AI in Java: comparing Spring AI and LangChain4j hands-on](abstracts/unleashing-ai-in-java.md)
 - [Building a custom AI chatbot with Spring Boot, React, and LangChain4j](abstracts/custom-ai-chatbot.md)
 - [Full-stack web apps, 100% Java](abstracts/full-stack-web-100-percent-java.md)
 - [Practical AI in Java](abstracts/practical-ai-in-java.md)

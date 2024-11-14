@@ -1,4 +1,4 @@
-# AI in Java: Comparing Spring AI and LangChain4j hands-on
+# Intro to AI in Java: comparing Spring AI and LangChain4j hands-on
 
 Are you a Java developer curious about building AI apps, but feel restricted by the prevalence of Python and JavaScript tools? This talk is for you. We'll explore the Java AI libraries LangChain4j and Spring AI, demystifying how to get started with AI engineering right within your favorite language.
 
