@@ -16,13 +16,14 @@ If you're interested collaborating on content or having me speak at your event, 
 ## Current talks
 
 - [Java meets TypeScript: full-stack web apps with Spring Boot and React](abstracts/full-stack-spring-boot-react.md)
-- [AI in Java: Comparing Spring AI, LangChain4j, and Semantic Kernel](abstracts/unleashing-ai-in-java.md)
+- [AI in Java: Comparing Spring AI and LangChain4j hands-on](abstracts/unleashing-ai-in-java.md)
 - [Building a custom AI chatbot with Spring Boot, React, and LangChain4j](abstracts/custom-ai-chatbot.md)
 - [Full-stack web apps, 100% Java](abstracts/full-stack-web-100-percent-java.md)
+- [Practical AI in Java](abstracts/practical-ai-in-java.md)
 
 | Bio                                                                                                                                                                                                                        | Headshot                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Marcus has spent the past 20 years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. He works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
+| Marcus has spent the past 20+ years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. He works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
 
 ## Online content
 
