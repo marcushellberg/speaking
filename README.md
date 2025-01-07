@@ -23,7 +23,7 @@ If you're interested collaborating on content or having me speak at your event, 
 
 | Bio                                                                                                                                                                                                                        | Headshot                         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Marcus has spent the past 20+ years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. He is a Java Champion and currently works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
+| Marcus has spent the past 20+ years combining modern web technologies and Java. He's always curious to learn new things and loves helping developers learn new things. Marcus is a Java Champion and currently works as the VP of Developer Relations at Vaadin. | ![Headshot](marcus-hellberg.jpg) |
 
 ## Online content
 
