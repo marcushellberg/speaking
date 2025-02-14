@@ -33,7 +33,9 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
+| 2025-05-27 | JNation                                                  | Porto, Portugal      |
 | 2025-05-15 | JCON Europe                                              | Cologne, Germany     |
+| 2025-04-09 | Microsoft JDConf                                         | Online               |
 | 2025-03-18 | JavaOne                                                  | Redwood Shores, CA   |
 | 2024-10-29 | Vaadin Create                                            | Frankfurt, Germany   |
 | 2024-10-01 | dev2next                                                 | Lone Tree, CO        |
