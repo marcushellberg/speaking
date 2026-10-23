@@ -33,6 +33,8 @@ You can find many of my videos on the [Vaadin YouTube channel](https://www.youtu
 
 | Date       | Event                                                    | Location             |
 | ---------- | -------------------------------------------------------- | -------------------- |
+| 2026-10-27 | Vaadin Create                                            | Barcelona, Spain     |
+| 2026-02-02 | Jfokus                                                   | Stockholm, Sweden    |
 | 2025-05-27 | JNation                                                  | Porto, Portugal      |
 | 2025-05-15 | JCON Europe                                              | Cologne, Germany     |
 | 2025-04-09 | Microsoft JDConf                                         | Online               |
